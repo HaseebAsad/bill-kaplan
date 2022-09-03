@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Bill Kaplan Society
+email: billkaplan.society@durham.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Bill Kaplan Society is a Durham university society aimed at exploring
+  behavourial psychology and economics in the financial markets through understanding
+  quantitative strategies in card games. We produce reports on strategies, document our findings
+  and host regular games to achieve our goals.
 baseurl: "/bill-kaplan" # the subpath of your site, e.g. /blog
-url: "https://haseebasad.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://haseebasad.github.io/" # the base hostname & protocol for your site, e.g. http://example.com\
+github_username: HaseebAsad
 
 # Build settings
 theme: minima
